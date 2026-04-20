@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+smsspamcollection.zip
+SMSSpamCollection
+.ipynb_checkpoints/
+.DS_Store
